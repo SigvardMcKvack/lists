@@ -1,12 +1,3 @@
-*.apptimize.com
-*.cloudfront.net
-*.dsce9.akamaiedge.net
-*.dscq.akamai.net
-*.dscr.akamai.net
-*.gratis-reisebilletter.*
-*.omtrdc.net
-*.polldaddy.com
-*.video-ak.cdn.spotify.com
 -rotation.de
 -traffic.com
 0a0qetx8et.com
