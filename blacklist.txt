@@ -12126,6 +12126,7 @@ id-visitors.com
 id.aftonbladet.se
 id.google.co.uk
 id.google.com
+id.google.dk
 id.google.no
 id.kbmg.cz
 idaschop.ru
@@ -14272,11 +14273,14 @@ l9tdhe6.com
 l33tsite.info
 l.admob.com
 l.coincident.tv
+l.create.canva.cn
+l.engage.canva.cn
 l.fairblocker.com
 l.ffx.io
 l.ooyala.com
 l.player.ooyala.com
 l.sharethis.com
+l.support.canva.cn
 la-la-moon.com
 la-la-sf.com
 lab.tune.com
@@ -14324,6 +14328,7 @@ lansrv030.com
 lant.pro
 lantocha.ru
 laojiayoufang.com
+lap-click.tr.line.me
 lapatiya.info
 lapeduzis.org
 larentisol.com
@@ -18605,6 +18610,7 @@ pay4member.com
 pay-click.ru
 pay-hit.com
 pay.com
+pay.google.com
 payae8moon9.com
 payclick.it
 paydotcom.com
@@ -20338,6 +20344,7 @@ qudpdpkxffzt.com
 qued9yae1ai.info
 queenmult.link
 quensillo.com
+query.prod.cms.rt.microsoft.com
 querylead.com
 questionfly.com
 questionmarket.com
@@ -20713,6 +20720,7 @@ redflu.ru
 redichat.com
 redintelligence.net
 redir.widdit.com
+redirects.eastsideco.io
 redirect18systemsg.com
 redirectgang.com
 redirecting.download
@@ -20908,6 +20916,7 @@ respondhq.com
 response.pure360.com
 responsetap.com
 responsys.hs.llnwd.net
+rest.tv2.no
 resu8.hjfile.cn
 resulticks.com
 resultlinks.com
@@ -21076,6 +21085,7 @@ ripalazc.com
 ripemember.com
 ripost.services
 ripplead.com
+ris.api.iris.microsoft.com
 risale.ru
 risle.ru
 ritecounter.com
@@ -22383,6 +22393,7 @@ smaclick.com
 smadex.com
 smallseotools.com
 smapohsnoww.com
+smartlock.google.com
 smart2.allocine.fr
 smart-digital-solutions.com
 smart-dmp.com
@@ -23048,6 +23059,7 @@ static.parsely.com
 static.polldaddy.com
 static.prototypes.ru
 static.terrhq.ru
+staticw2.yotpo.com
 staticmedia.org
 statics-uhf-wus.akamaized.net
 staticsfs.host
@@ -24668,6 +24680,7 @@ tr.cloud-media.fr
 tr.connatix.com
 tr.datanyze.com
 tr.interlake.net
+tr.line.me
 tr.n2.hk
 tr.outbrain.com
 tr.samoresim.ru
@@ -27916,6 +27929,8 @@ www.adbert.com.tw
 www.admob.com
 www.admob.com.akadns.net
 www.adonit-sdk.net
+www.apt.albstcm.no
+www.apt.dev.albstcm.no
 www.auditude.com
 www.betsonsport.ru
 www.ch-software.de
