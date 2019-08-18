@@ -26,13 +26,14 @@
 0b6e714203b6797e8d4.com
 0f12ec21041307c4ddd.com
 0aac4e6a54c170b0.se
-00ae8b5a9c1d597.com
 0a4bcef12091ce7.com
 00aaa2d81c1d174.com
+00ae8b5a9c1d597.com
 00.video-ak.cdn.spotify.com
 0gw7e6s3wrao9y3q.pro
 1-cl0ud.com
 1bcde.com
+01n2e3pac2.com
 1beb2a44.space
 1bestgoods.com
 1bx4t5c.com
@@ -56,7 +57,6 @@
 1l-hit.mail.ru
 1lo0.net
 1mint1.info
-01n2e3pac2.com
 1mp.mobi
 1nimo.com
 1pel.com
@@ -182,33 +182,33 @@
 3d55eccf56053ff2e8.com
 3b0b68c876376f7311.com
 3e35c218b3d623dde.com
-3d1504306f119f192.com
-3ca28642b714623b2.com
 3cd99930e27056f89.com
-3d643f542787c62a7.com
+3ca28642b714623b2.com
 3e612a08c1e4ad1c7.com
+3d643f542787c62a7.com
+3d1504306f119f192.com
 3ac901bf5793b0fccff.com
+3f32172d509aeb0.com
 3c0012ab95c132f.com
 3ba87e4828c5a95.com
-3f32172d509aeb0.com
+3b7c0f01022f61d5.com
 3da86d9fe797f228.com
 3b9eb5ed04721bef.com
-3b7c0f01022f61d5.com
 3cb06e7a174a55da.com
 4a9747b7bfb3.com
+04dn8g4f.space
+04v70ab.com
 4affiliate.net
 4allclick.ru
 4bb6jls06l.com
-04v70ab.com
 4c935d6a244f.com
-4f2sm1y1ss.com
-04dn8g4f.space
 4dsbanner.com
 4dsbanner.net
 4dsply.com
 4dtrk.com
 4e34b4865905c4.com
 4e43ac9c.info
+4f2sm1y1ss.com
 4fb0a3bf4a3d38.com
 4jnzhl0d0.com
 4o64flb.com
@@ -225,16 +225,16 @@
 4wnetwork.com
 4eacccd99990beed317.com
 4spoonyexperiment.com
-4f3c238ed437e1e.com
-4f6c963f07f67bd.com
 4b6994dfa47cee4.com
+4f6c963f07f67bd.com
+4f3c238ed437e1e.com
 4f6b2af479d337cf.com
 005.0x1f4b0.com
 05f4e2756f290.com
-05y2dxmr.top
 5advertise.com
 5b15a826.xyz
 5d02977f6511aa.com
+05y2dxmr.top
 5dabf928ad9ad4.com
 5db8d92zi2.com
 5e6lud.cn
@@ -253,10 +253,10 @@
 5ad954477413bdb77f.com
 5clickcashsoftware.com
 05ee3a24ed11df058c8.com
-5e1fcb75b6d662d.com
 5b5a93686577c13.com
-5edeb195868e2195.com
+5e1fcb75b6d662d.com
 5f8fbbfc2244adc9.com
+5edeb195868e2195.com
 6a0e2d19ac28.com
 6a9102689db8e.com
 6af461b907c5b.com
@@ -317,8 +317,8 @@
 7wtic7ru.com
 7x4.fr
 7x5.fr
-7f8e91975bdc9c5f1c.com
 7a6421ee67fdb0f660.com
+7f8e91975bdc9c5f1c.com
 7db0b2a0ee95f557904.com
 7e59f52a58ab3be819c9a90ba53b9ffe.ovh
 7d6260236b547b31f.com
@@ -349,7 +349,6 @@
 8cc5ff581a88.bitsngo.net
 8baf7ae42000024.com
 8b0b17dc1f9f8010.com
-09b950280b055.com
 9a24a1b3dcd5f4.com
 9ads.mobi
 9b51b7efc6d2a.com
@@ -362,6 +361,7 @@
 9f4272342f817.com
 9fine.ru
 9h7n8.com
+09b950280b055.com
 9ib5cxi9e0.com
 9icmzvn6.website
 9juj88.com
@@ -442,8 +442,8 @@
 34c2f22e9503ace.com
 35d59588f15966.com
 38f30081974c52.com
-039ad0897e6da.com
 39d1d397c97730.com
+039ad0897e6da.com
 40ceexln7929.com
 40nuggets.com
 41ef19c0f0794e058c.com
@@ -779,10 +779,10 @@ a1ff7997a4fa3885527.com
 a1b1ea8f418ca02ad4e.com
 a1f37c2dc9d68496.com
 a1a5ab31bcd1bc68.com
-a2a.lockerz.com
-a02d0adbca0.com
-a2dfp.net
 a2fcb07a505c.com
+a02d0adbca0.com
+a2a.lockerz.com
+a2dfp.net
 a2gw.com
 a2pub.com
 a2c653c4d145fa5f96a.com
@@ -1183,6 +1183,7 @@ ad.emlakeki.com
 ad.ettoday.net
 ad.flipboard.com
 ad.floq.jp
+ad.foxitsoftware.com
 ad.gameagregator.com
 ad.gt
 ad.gunosy.com
@@ -1759,6 +1760,7 @@ adnxs.comadplexmedia.adk2x.com
 adnxs.net
 adnxsid.com
 adnz.co
+adobedtm.com
 adobemobiledev-mkt-prod1-lb.campaign.adobe.com
 adobetag.com
 adocean.cz
@@ -1898,8 +1900,8 @@ adrta.com
 adrttt.com
 adru.net
 ads1-adnow.com
-ads1.careerbuilder.vn
 ads01.com
+ads1.careerbuilder.vn
 ads2-adnow.com
 ads2.contentabc.com
 ads2ads.net
@@ -2937,6 +2939,7 @@ alogationa.co
 alogs.umeng.com
 alogs.umengcloud.com
 alpari.ru
+alpha.telemetry.microsft.com
 alphabird.com
 alphabirdnetwork.com
 alphacash.biz
@@ -3142,6 +3145,7 @@ analytics.ifood.tv
 analytics.iraiser.eu
 analytics.islamicfinder.org
 analytics.jabong.com
+analytics.kaltura.com
 analytics.kaltura.com
 analytics.kapost.com
 analytics.ladmedia.fr
@@ -3479,6 +3483,7 @@ apparest.com
 appboycdn.com
 appclick.co
 appclick.net
+appcloud.mcafee.com
 appelamule.com
 appendad.com
 appier.net
@@ -3571,6 +3576,7 @@ arana.pw
 arancefy.com
 arawegnvvufy.com
 arbadgika.ru
+arc.msn.com
 arcadebannerexchange.net
 arcadebannerexchange.org
 arcadebanners.com
@@ -3653,6 +3659,7 @@ ashskonorge.com
 ashwlrtiazee.com
 asiantraffic.net
 asidecasev.com
+asimov-win.settings.data.microsoft.com.akadns.net
 asinole.info
 askarer.info
 asketo.ru
@@ -3678,6 +3685,7 @@ asrjxxzxmxy.com
 assassinfitness.com
 assetize.com
 assets.adobedtm.com
+assets.onestore.ms
 assets.spotify.com
 assetscdn.stream
 assoc-amazon.ca
@@ -3800,6 +3808,7 @@ audio-sp-bma.pscdn.co
 audit.303br.net
 audit.median.hu
 auditoire.ph
+auditrecording-pa.googleapis.com
 auditude.com
 audrte.com
 audsp.com
@@ -4000,6 +4009,7 @@ azrimet.info
 azroydhgqcfv.com
 azsin.ru
 aztu.ynfolstw.xyz
+azurecomcdn.azureedge.net
 azvjudwr.info
 azvozac.ru
 azxsd.pro
@@ -4604,6 +4614,7 @@ bid.g.doubleclick.net
 bid.run
 bidadx.com
 bidder.mdspinc.com
+bidder.rtk.io
 bidderrtb.com
 bidfppkjo.com
 bidgear.com
@@ -5181,6 +5192,7 @@ buadnqirhykcyc.com
 buawdshes.ru
 bubblesmedia.ru
 bubblestat.com
+bucket.rtk.io
 bucketsofbanners.com
 buckridge.link
 budgetedbauer.com
@@ -5473,6 +5485,7 @@ candy.smv.to
 canlytics.com
 cannontwin.com
 canoeklix.com
+canonicalizer.ucsuri.tcs
 canopylabs.com
 canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
@@ -5681,6 +5694,7 @@ cdn.mobicow.com
 cdn.mouseflow.com
 cdn.movieads.ru
 cdn.odoscope.cloud
+cdn.overheat.it
 cdn.pljs.ru
 cdn.plopx.com
 cdn.pulpix.com
@@ -5870,6 +5884,7 @@ cheaptop.ru
 cheatre.info
 checkabil.com
 checkapi.xyz
+checkappexec.microsoft.com
 checkbl.ru
 checkchick4u.org
 checkeffect.at
@@ -6200,6 +6215,7 @@ clickzzs.nl
 cliennes.com
 client-api.matchinguu.com
 client-event-reporter.twitch.tv
+client-office365-tas.msedge.net
 client-stream-events.mtg-api.com
 client.midosoo.com
 client.perimeterx.net
@@ -6259,6 +6275,7 @@ clotezar.com
 clothiquet.info
 cloud-exploration.com
 cloud-iq.com
+cloud.connectedpdf.com
 cloud.roistat.com
 cloudcdn.gdn
 cloudcoins.co
@@ -6559,6 +6576,7 @@ conduit-services.com
 conf.international.baidu.com
 conferentse.com
 config2.mparticle.com
+config.edge.skype.com
 config.safedk.com
 config.tremorhub.com
 config.uca.cloud.unity3d.com
@@ -7144,6 +7162,7 @@ cupzwcxgx.com
 curalate.com
 curancience.com
 curate.nestedmedia.com
+cureyoursystem.com
 curker.ru
 curnkiosk.com
 curredex.com
@@ -7182,6 +7201,7 @@ cwkuki.com
 cwliihvsjckn.com
 cwmycjoddoq.com
 cwofongvtbsi.com
+cws.connectedpdf.com
 cwtekghutpaq.com
 cwtrackit.com
 cwvdzcqvg.com
@@ -7259,9 +7279,9 @@ d0f85db8ee56f5c6.com
 d2.ligatus.com
 d2eb561c06fa6.com
 d2ship.com
-d03x2011.com
 d3b75cfc88a9.com
 d3e44a82c2df88.com
+d03x2011.com
 d04b7831b4690.com
 d4fed03105c9f65b.com
 d5d4f491e92.com
@@ -7435,6 +7455,9 @@ daxzupqivdoj.com
 daylife-analytics.com
 daylogs.com
 dazhantai.com
+db5-eap.settings-win.data.microsoft.com.akadns.net
+db5.settings-win.data.microsoft.com.akadns.net
+db5.vortex.data.microsoft.com.akadns.net
 db8a41d81b8dfe41de2.com
 db14a56766c5e1a1c2.com
 db52cc91beabf7e8.com
@@ -7635,6 +7658,8 @@ developers.intercom.io
 device9.com
 device-analytics.rollout.io
 device-api.urbanairship.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
 device-provisioning.googleapis.com
 devkiforyou.org
 devphp.org.ua
@@ -7796,6 +7821,7 @@ disedet.info
 disklaimer.ru
 dispatcher.mng-ads.com
 dispatcher.upmc.uc.cn
+display.apester.com
 displaymarketplace.com
 dispop.com
 disqusads.com
@@ -7885,6 +7911,7 @@ dmatquyckwtu.com
 dmbjbgiifpfo.com
 dmclick.cn
 dmd53.com
+dmd.metaservices.microsoft.com
 dmdcpvgu.com
 dmg-mobile.com
 dmgcxznqmmiek.com
@@ -7929,6 +7956,7 @@ dnr51y6xj4.com
 dnrtjavop.com
 dnrywryy.com
 dnrzajdjq.com
+dns.msftncsi.com
 dnsapimzlvmcis.com
 dnsqqdordvpv.com
 dntlpwpjwcfu.com
@@ -8984,6 +9012,7 @@ eu-gmtdmp.gd1.mookie1.com
 eu-ma.sam4m.com
 eu-survey.com
 eu.market-place.su
+eu.vortex-win.data.microsft.com
 euadsapi.manhuaren.com
 euadw.com
 euarbohjj.com
@@ -9052,6 +9081,7 @@ events.adjust.com
 events.air.tv
 events.antenna.is
 events.apester.com
+events.apester.com
 events.appsflyer.com
 events.artirix.com
 events.bounceexchange.com
@@ -9072,6 +9102,7 @@ events.realgravity.com
 events.reddit.com
 events.redditmedia.com
 events.snacktv.de
+events.sp.vodafone.com
 events.turbosquid.com
 events.whisk.com
 events.yourcx.io
@@ -9112,6 +9143,7 @@ evt.moatads.com
 evtfjieqjhvf.com
 evuchenzypysci.com
 evvpibrfqzjn.com
+ew1.dms-gld.bigdata.ssp.samsung.com
 ew3.io
 ewbejjirdygik.com
 ewebanalytics.com
@@ -9247,8 +9279,8 @@ eztfsnnttpqfs.com
 ezuereisgj.com
 ezuosstmbcle.com
 ezytrack.com
-f1tbit.com
 f01ed651eca.com
+f1tbit.com
 f3a2dc11dfb33.com
 f3c1cc473b337ded.com
 f4fe214bd563.com
@@ -10328,8 +10360,8 @@ gdwviet.com
 gdwwpvwq.com
 gdyelbwku.com
 gdyjhclaxvqz.com
-ge-0-0-1-edge1.sc9.admob.com
 ge-0-0-43-crs1.sc9.admob.com
+ge-0-0-1-edge1.sc9.admob.com
 ge-ge-force.com
 gear5.me
 gearnews.info
@@ -10390,7 +10422,9 @@ geo.mtvnn.com
 geo.perezhilton.com
 geo.play.it
 geo.q5media.net
+geo.settings-win.data.microsoft.com.akadns.net
 geo.theawesomer.com
+geo.vortex.data.microsoft.com.akadns.net
 geo.xcel.io
 geo.yahoo.com
 geobar.ziffdavisinternational.com
@@ -12325,6 +12359,7 @@ imageadnet.com
 imageadvantage.net
 imagedoll.com
 imagehostnetwork.com
+images.apester.com
 images.comscore.com
 imagesatlantic.com
 imaginaxs.com
@@ -12746,6 +12781,7 @@ ipinyou.com.cn
 ipllxfcftp.com
 iplocationtools.com
 ipluhckk.com
+ipm.corel.com
 ipml-qvr8go.ru
 ipncblpgxlhjpc.com
 ipntpfokhkrh.com
@@ -12827,6 +12863,7 @@ islationa.com
 isnsgjhthhaqtu.com
 iso100.ru
 isohits.com
+isondled.net
 isonlynews.net
 ispaagigjygd.com
 isparkmedia.com
@@ -13205,6 +13242,7 @@ jipzvmzzycg.com
 jirafe.com
 jirmbsgr.com
 jiruygrsl.com
+jita-rtk-io-dmyt03fgsksh5xx.stackpathdns.com
 jitvspfwwmzcu.com
 jivnpidyteh.com
 jivox.com
@@ -14911,6 +14949,7 @@ logethy.com
 logger.cloudmobi.net
 logger.co.kr
 logger.dailymotion.com
+logger.foxitcloud.com
 logger.kataweb.it
 logger.logidea.info
 logger.nerdwallet.com
@@ -14947,6 +14986,7 @@ logrocket.com
 logrocket.io
 logs2.xiti.com
 logs1189.xiti.com
+logs1413.xiti.com
 logs.ntvplus.tv
 logs.spilgames.com
 logs.supersonic.com
@@ -15348,6 +15388,7 @@ maidlytsnrn.com
 maik.ff-bt.net
 mail2.comscore.com
 mail.banklife.ru
+mail.google.com
 mail.phanquang.vn
 mail.viam.com.vn
 mailhxubk.com
@@ -15435,6 +15476,7 @@ marketperf.com
 marketshot.com
 marketshot.fr
 marktest.pt
+marktplatz.servicebus.windows.net
 maropost.com
 marphezis.com
 marsads.com
@@ -16189,6 +16231,7 @@ mobile-10.com
 mobile-campaigns.avast.com
 mobile-click.biz
 mobile-collector.newrelic.com
+mobile-gtalk.l.google.com
 mobile-sdk-api.intercom.io
 mobile.launchdarkly.com
 mobile.mng-ads.com
@@ -16477,6 +16520,7 @@ mstrlytcs.com
 msxmfyhwgkos.com
 msypr.com
 mszfmpseoqbu.com
+mtalk.google.com
 mtalk.google.com
 mtbnqoixmb.com
 mtbsdhzpikjt.com
@@ -16915,6 +16959,7 @@ ndxidnvvyvwx.com
 ndxtyryloc.com
 ndyzz.com
 neads.delivery
+neads.delivery
 neaozrrjd.com
 nearbyad.com
 neatstats.com
@@ -17317,6 +17362,7 @@ nonpaly.ru
 nonstoppartner.de
 nonstoppartner.net
 nonxt1.c.youtube.com
+nooiewhvub.fritz.box
 noolablkcuyu.com
 noowho.com
 noqukjy.com
@@ -17661,6 +17707,7 @@ obyxqjgwg.com
 obzatop.info
 oc.umeng.co
 oc.umeng.com
+oca.telemetry.microsft.com
 ocatdog.live
 ocatdog.today
 oceanwebcraft.com
@@ -18263,6 +18310,7 @@ oveld.com
 overhaps.com
 overreare.co
 oversailor.com
+overseer.tools.avcdn.net
 overstat.com
 overture.com
 overturs.com
@@ -19460,6 +19508,7 @@ probtn.com
 proccurs.com
 proclarity.comscore.com
 proclivitysystems.com
+prod.proton.start.vodafone.com
 prod.spotify-heads.map.fastlylb.net
 prod.spotify.map.fastly.net
 prod.spotify.map.fastlylb.net
@@ -19646,6 +19695,7 @@ ptiniretm.com
 ptiqsfrnkmmtvtpucwzsaqonmvaprjafeerwlyhabobuvuazun.com
 ptkgzsqf.com
 ptlbzqzveii.com
+ptm.flowplayer.com
 ptmind.com
 ptmopenclose.click
 ptmzr.com
@@ -20788,6 +20838,7 @@ remote-data.urbanairship.com
 remtoaku.net
 renaissanto.com
 rencohep.com
+renderer.apester.com
 renegoads.com
 renewnewss.net
 renhertfo.com
@@ -20851,6 +20902,8 @@ resorsedroblet.pro
 resourse43.com
 respecific.net
 respond-adserver.cloudapp.net
+responder-wt-heise-de-1327322338.eu-central-1.elb.amazonaws.com
+responder.wt.heise.de
 respondhq.com
 response.pure360.com
 responsetap.com
@@ -21698,6 +21751,8 @@ sceuexzmiwrf.com
 scfkfridulshkd.com
 scgyndrujhzf.com
 schemic.top
+schibsted.com
+schibsted.io
 schlauli.de
 schoolyeargo.com
 sciencerevenue.com
@@ -21949,6 +22004,7 @@ servertraffic.de
 servestats.com
 service4refresh.info
 service-stat.tbn.ru
+service.chip-secured-download.de
 service.rorer.ru
 servicegetbook.net
 services.wetek.com
@@ -22290,6 +22346,7 @@ skzpsnpp.com
 sl-ct5.com
 slava.soloway.su
 slavial.pro
+slb-vgwort-de-pool02.vgwort-de.2cnt.net
 slb.gedawang.com
 slb.lemonwhale.com
 slejv.space
@@ -22697,6 +22754,7 @@ spider-mich.com
 spider.ad
 spiderhood.net
 spidtest.org
+spiele.heise.de
 spiffymachine.com
 spillvacation.com
 spinbox.freedom.com
@@ -22838,6 +22896,7 @@ ssl4us.cf
 ssl4us.gq
 ssl-drtvosstream.tns-gallup.dk
 ssl-google-analytics.l.google.com
+ssl-heise.met.vgwort.de
 ssl-services.com
 ssl.google-analytics.com
 ssl.gstatic.com
@@ -22890,6 +22949,7 @@ star.manystars.ru
 stargamesaffiliate.com
 starlayer.com
 start.fotostrana.ru
+start.vodafone.com
 startappexchange.com
 startappservice.com
 startpagea.com
@@ -22989,6 +23049,7 @@ static.polldaddy.com
 static.prototypes.ru
 static.terrhq.ru
 staticmedia.org
+statics-uhf-wus.akamaized.net
 staticsfs.host
 statisfy.net
 statistic.date
@@ -23043,6 +23104,7 @@ stats-dc1.frz.io
 stats-messages.gifs.com
 stats-newyork1.bloxcms.com
 stats.abbi.io
+stats.apester.com
 stats.aplus.com
 stats.appsflyer.com
 stats.articlesbase.com
@@ -23112,6 +23174,7 @@ stats.ipmgroup.be
 stats.itsol.it
 stats.itweb.co.za
 stats.jpush.cn
+stats.kaltura.com
 stats.kaltura.com
 stats.lightningcast.net
 stats.lnol.com.ar
@@ -23201,6 +23264,7 @@ stats.visistat.com
 stats.vodpod.com
 stats.vulture.com
 stats.walytics.com
+stats.webandmore.de
 stats.webs.com
 stats.webstarts.com
 stats.whicdn.com
@@ -23435,6 +23499,7 @@ supert.ag
 supertop.ru
 supertura.com
 superwebs.pro
+supl.vodafone.com
 support.tune.com
 supportxmr.com
 supprent.com
@@ -23629,6 +23694,7 @@ t.brand-server.com
 t.c4tw.net
 t.cfjump.com
 t.channeladvisor.com
+t.checkappexec.microsoft.com
 t.cinemablend.com
 t.custora.com
 t.dailymail.co.uk
@@ -23755,6 +23821,7 @@ taodggarfrmd.com
 taodropship.com
 tap1.vip.sc9.admob.com
 tap-nexus.appspot.com
+tap.idg.de
 tap.idg.de
 tapad.com
 tapcreatives.net
@@ -25326,6 +25393,7 @@ ts.tradetracker.net
 tscapeplay.com
 tscounter.com
 tsdzmkpewrdxyl.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
 tsinadol.ru
 tsitelur.ru
 tsitodi.info
@@ -25981,10 +26049,12 @@ us2ozhalin.ru
 us3mnavice.ru
 us4hnicser.ru
 us5fzonaco.ru
+us-request.foxitservice.com
 us.3zs0.date
 us.a1.yimg.com
 us.b3018.pw
 us.i1.yimg.com
+us.vortex-win.data.microsft.com
 usa-media.net
 usa.cc
 usabilitytools.com
@@ -26176,7 +26246,10 @@ v3.moatads.com
 v3g4s.com
 v4.moatads.com
 v4dwkcv.com
+v7event.stats.avast.com
 v9bet.com
+v10.vortex-win.data.microsft.com
+v10-win.vortex.data.microsft.com.akadns.net
 v11media.com
 v12group.com
 v.admob.com
@@ -26399,6 +26472,7 @@ vewpwrqebmwu.com
 veytkljszaoutc.com
 vezetmne.ru
 vezipelsr.com
+vf360updates.vodafone.com
 vfasewomnmco.com
 vfedpgmaxxkug.com
 vffyvridwaa.com
@@ -26426,6 +26500,7 @@ vglpukrekfij.com
 vgmrqurgxlimcawbweuzbvbzxabsfuuxseldfapjmxoboaplmg.com
 vgogzrukn.com
 vgtnbvzkepbm.com
+vgwzaehlungen.de
 vgyakiejafjjj.com
 vhatpbmitwcn.com
 vhbyakilp.com
@@ -26802,6 +26877,7 @@ voqdswwgrheo.com
 voqkuiowjtkwgc.com
 vorinteon.ru
 voronezh136.ru
+vortex-win-sandbox.data.microsoft.com
 vortex.data.microsoft.com
 voss.collegehumor.com
 votistics.com
@@ -27056,6 +27132,7 @@ waiads.com
 wakapita.com
 walasearch.com
 walftgaqiemcx.com
+wallet.google.com
 wallpapersfacts.com
 wallstrads.com
 walmeric.com
@@ -27682,6 +27759,9 @@ wozltvfxtntaqk.com
 wp-monero-miner.de
 wp-stats.com
 wp-tk.ru
+wpad.fritz.box
+wpad.getinternet.no
+wpad.local
 wpbhnyjej.com
 wpdstat.com
 wpfc.ml
@@ -27837,8 +27917,12 @@ www.admob.com.akadns.net
 www.adonit-sdk.net
 www.auditude.com
 www.betsonsport.ru
+www.ch-software.de
 www.comscore.com
 www.cp.tune.com
+www.example.com
+www.example.net
+www.example.org
 www.google-analytics.com
 www.googleadservices.com
 www.googletagmanager.com
@@ -27849,6 +27933,8 @@ www.intercom.io
 www.milawka.com
 www.mixpanel.com
 www.moatads.com
+www.msftncsi.com
+www.msn.com
 www.mycomscore.net
 www.net.kg
 www.omaze.com
@@ -27856,6 +27942,7 @@ www.p.de
 www.rt-ns.ru
 www.spotx.tv
 www.ui.cp.tune.com
+www.ultramixer.com
 www.upv4.moatads.com
 www.yahoo.com
 wwwadcntr.com
