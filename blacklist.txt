@@ -26252,6 +26252,7 @@ v10.vortex-win.data.microsft.com
 v10-win.vortex.data.microsft.com.akadns.net
 v11media.com
 v12group.com
+v20.events.data.microsoft.com
 v.admob.com
 v.ckpvz.space
 v.cuioj.com
