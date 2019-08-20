@@ -1,3 +1,12 @@
+*.apptimize.com
+*.cloudfront.net
+*.dsce9.akamaiedge.net
+*.dscq.akamai.net
+*.dscr.akamai.net
+*.gratis-reisebilletter.*
+*.omtrdc.net
+*.polldaddy.com
+*.video-ak.cdn.spotify.com
 -rotation.de
 -traffic.com
 00bloggers.ru
@@ -20910,6 +20919,7 @@ respondhq.com
 response.pure360.com
 responsetap.com
 responsys.hs.llnwd.net
+restapi-vimond-prod.b17g.net
 rest.tv2.no
 resu8.hjfile.cn
 resulticks.com
@@ -24257,6 +24267,7 @@ tikrailijorj.com
 tikwglketskr.com
 tiller.co
 tilosman.com
+time.b17g.services
 timeophone.com
 timeslog.indiatimes.com
 tin-tin-win.com
