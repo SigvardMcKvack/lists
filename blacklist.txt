@@ -11731,6 +11731,7 @@ hot-hits.us
 hot-mob.com
 hotcounter.de
 hotdogsandads.com
+hotels.cn
 hotelscombined.com.au
 hotfeed.net
 hothta.com
@@ -12123,11 +12124,13 @@ iczhhiiowapd.com
 id1.cn
 id5-sync.com
 id-visitors.com
+id.aftenposten.no
 id.aftonbladet.se
 id.google.co.uk
 id.google.com
 id.google.dk
 id.google.no
+id.google.se
 id.kbmg.cz
 idaschop.ru
 idbhsgy.com
@@ -22023,6 +22026,7 @@ servingpps.com
 servingtrkid.com
 servustats.com
 seskeu3zk7.com
+session.payment.schibsted.no
 session.timecommerce.net
 sessioncam.com
 sessionm.com
@@ -22510,6 +22514,7 @@ snpevihwaepwxapnevcpiqxrsewuuonzuslrzrcxqwltupzbwu.com
 snrmqtnnlxdgdh.com
 snsfjpes.com
 snsgsqyv.com
+snt-matrix-app.herokuapp.com
 snxjlicc.com
 snxvrnhe.com
 so-excited.com
@@ -27541,6 +27546,8 @@ widefox.ru
 widerplanet.com
 widespace.com
 widetunel.ru
+widget-curate-list.herokuapp.com
+widget-last-free-article.herokuapp.com
 widget-mediator.zopim.com
 widget.convertiser.com
 widget.intercom.io
@@ -27923,6 +27930,7 @@ www.adonit-sdk.net
 www.apt.albstcm.no
 www.apt.dev.albstcm.no
 www.auditude.com
+www.baidu.com
 www.betsonsport.ru
 www.ch-software.de
 www.comscore.com
@@ -27948,6 +27956,7 @@ www.omaze.com
 www.p.de
 www.rt-ns.ru
 www.spotx.tv
+www.storeapp-promotions.com
 www.ui.cp.tune.com
 www.ultramixer.com
 www.upv4.moatads.com
