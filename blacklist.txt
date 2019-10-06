@@ -1,7 +1,7 @@
 -rotation.de
 -traffic.com
-00bloggers.ru
 0a0qetx8et.com
+00bloggers.ru
 0azx1.com
 0b9d84d93f1b.com
 0c8a10b46fc6.com
@@ -32,8 +32,8 @@
 00.video-ak.cdn.spotify.com
 0gw7e6s3wrao9y3q.pro
 1-cl0ud.com
-1bcde.com
 01n2e3pac2.com
+1bcde.com
 1beb2a44.space
 1bestgoods.com
 1bx4t5c.com
@@ -195,9 +195,9 @@
 3da86d9fe797f228.com
 3b9eb5ed04721bef.com
 3cb06e7a174a55da.com
-4a9747b7bfb3.com
 04dn8g4f.space
 04v70ab.com
+4a9747b7bfb3.com
 4affiliate.net
 4allclick.ru
 4bb6jls06l.com
@@ -231,11 +231,11 @@
 4f6b2af479d337cf.com
 005.0x1f4b0.com
 05f4e2756f290.com
+5dabf928ad9ad4.com
+05y2dxmr.top
 5advertise.com
 5b15a826.xyz
 5d02977f6511aa.com
-05y2dxmr.top
-5dabf928ad9ad4.com
 5db8d92zi2.com
 5e6lud.cn
 5e8bba5e95ec.com
@@ -349,6 +349,7 @@
 8cc5ff581a88.bitsngo.net
 8baf7ae42000024.com
 8b0b17dc1f9f8010.com
+09b950280b055.com
 9a24a1b3dcd5f4.com
 9ads.mobi
 9b51b7efc6d2a.com
@@ -361,7 +362,6 @@
 9f4272342f817.com
 9fine.ru
 9h7n8.com
-09b950280b055.com
 9ib5cxi9e0.com
 9icmzvn6.website
 9juj88.com
@@ -398,9 +398,9 @@
 15f3c01c.info
 15gifts.com
 16e2ae8f200d975b.com
-017e689c749.com
 17a898b9.info
 17a898bb.info
+017e689c749.com
 17b1dbd9f3ae7db27cf.com
 18clicks.com
 19b45a16170729.com
@@ -442,8 +442,8 @@
 34c2f22e9503ace.com
 35d59588f15966.com
 38f30081974c52.com
-39d1d397c97730.com
 039ad0897e6da.com
+39d1d397c97730.com
 40ceexln7929.com
 40nuggets.com
 41ef19c0f0794e058c.com
@@ -779,10 +779,10 @@ a1ff7997a4fa3885527.com
 a1b1ea8f418ca02ad4e.com
 a1f37c2dc9d68496.com
 a1a5ab31bcd1bc68.com
-a2fcb07a505c.com
-a02d0adbca0.com
 a2a.lockerz.com
 a2dfp.net
+a2fcb07a505c.com
+a02d0adbca0.com
 a2gw.com
 a2pub.com
 a2c653c4d145fa5f96a.com
@@ -5398,6 +5398,7 @@ c.admob.com
 c.adroll.com
 c.bigmir.net
 c.bxjpl.cn
+c.cintnetworks.com
 c.compete.com
 c.cpa5.ru
 c.cpa6.ru
@@ -6228,7 +6229,6 @@ clientmetrics.kik.com
 clients1.google.com
 clients2.google.com
 clients3.google.com
-clients4.google.com
 clients5.google.com
 clients6.google.com
 clients7.google.com
@@ -7279,9 +7279,9 @@ d0f85db8ee56f5c6.com
 d2.ligatus.com
 d2eb561c06fa6.com
 d2ship.com
+d03x2011.com
 d3b75cfc88a9.com
 d3e44a82c2df88.com
-d03x2011.com
 d04b7831b4690.com
 d4fed03105c9f65b.com
 d5d4f491e92.com
@@ -7947,6 +7947,8 @@ dneqghbwlmyjnj.com
 dnewbvwrvadt.com
 dnftqfwycmfqrs.com
 dngsuhxuzb.com
+dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com
+dniadops-a.akamaihd.net
 dnjxoflvkvec.com
 dnoucjqzsasm.com
 dnovaku.ru
@@ -9279,8 +9281,8 @@ eztfsnnttpqfs.com
 ezuereisgj.com
 ezuosstmbcle.com
 ezytrack.com
-f01ed651eca.com
 f1tbit.com
+f01ed651eca.com
 f3a2dc11dfb33.com
 f3c1cc473b337ded.com
 f4fe214bd563.com
@@ -9977,6 +9979,7 @@ freetracker.biz
 freetrafficsystem.com
 freeusersonline.com
 freeweblogger.com
+freewheel-mtgx-tv.akamaized.net
 frefxzrmcdxdmi.com
 freihit.de
 fremaks.net
@@ -10360,8 +10363,8 @@ gdwviet.com
 gdwwpvwq.com
 gdyelbwku.com
 gdyjhclaxvqz.com
-ge-0-0-43-crs1.sc9.admob.com
 ge-0-0-1-edge1.sc9.admob.com
+ge-0-0-43-crs1.sc9.admob.com
 ge-ge-force.com
 gear5.me
 gearnews.info
@@ -12145,6 +12148,7 @@ idealmedia.com
 idealmedia.io
 idelmxrchrce.com
 identads.com
+identity.mparticle.com
 ideoclick.com
 ideprjebdvj.com
 idernzastoeok.com
@@ -12715,6 +12719,7 @@ invest-system.net
 investhash.com
 investingchannel.com
 invisioncloudstats.com
+inviso.rampanel.com
 invitemedia.com
 inviziads.com
 invoc.us
@@ -16514,6 +16519,7 @@ mspgkbvxtl.com
 mspnlttfp.com
 msrv.su
 msrwoxdkffcl.com
+mssl.fwmrm.net
 mstat.acestream.net
 mstmrspnqqevsu.com
 mstop.ru
@@ -20717,13 +20723,13 @@ redflu.ru
 redichat.com
 redintelligence.net
 redir.widdit.com
-redirects.eastsideco.io
 redirect18systemsg.com
 redirectgang.com
 redirecting.download
 redirectnative.com
 redirector.gvt1.com
 redirectpopads.com
+redirects.eastsideco.io
 redirectvoluum.com
 rediskina.com
 redistats.com
@@ -20913,8 +20919,8 @@ respondhq.com
 response.pure360.com
 responsetap.com
 responsys.hs.llnwd.net
-restapi-vimond-prod.b17g.net
 rest.tv2.no
+restapi-vimond-prod.b17g.net
 resu8.hjfile.cn
 resulticks.com
 resultlinks.com
@@ -22392,7 +22398,6 @@ smaclick.com
 smadex.com
 smallseotools.com
 smapohsnoww.com
-smartlock.google.com
 smart2.allocine.fr
 smart-digital-solutions.com
 smart-dmp.com
@@ -22413,6 +22418,7 @@ smarterdownloads.net
 smarterhq.io
 smarterremarketer.net
 smartinfomarketing.ru
+smartlock.google.com
 smartlook.com
 smartnews-ads.com
 smartocto.com
@@ -23058,11 +23064,12 @@ static.masoffer.net
 static.parsely.com
 static.polldaddy.com
 static.prototypes.ru
+static.quantcast.mgr.consensu.org
 static.terrhq.ru
-staticw2.yotpo.com
 staticmedia.org
 statics-uhf-wus.akamaized.net
 staticsfs.host
+staticw2.yotpo.com
 statisfy.net
 statistic.date
 statistic.imgpay.ru
@@ -23096,8 +23103,8 @@ statok.net
 statowl.com
 statpipe.ru
 statredpic.ru
-stats1.tune.pk
 stats01.20min.ch
+stats1.tune.pk
 stats2.algo.at
 stats2.arstechnica.com
 stats2.com
