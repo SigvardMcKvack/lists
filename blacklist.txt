@@ -9259,6 +9259,7 @@ extend.tv
 external-promo-metrics.yandex.net
 externalmedia.ru
 extfiles.net
+extmaps-api.yandex.net
 extole.com
 extole.io
 extra33.com
@@ -14994,6 +14995,7 @@ log.webnovel.com
 log.worldsoft-cms.info
 log.zingmp3.vn
 logaholic.com
+logbak.hicloud.com
 logcollector.viewster.com
 logcounter.com
 logdev.openload.co
@@ -15047,6 +15049,8 @@ logs.spilgames.com
 logs.supersonic.com
 logs.thebloggernetwork.com
 logs.vmixcore.com
+logservice.hicloud.com
+logservice1.hicloud.com
 logsoc.ru
 logssl.enquisite.com
 logsss.com
@@ -21723,6 +21727,7 @@ sam.setimedia.com
 sambaads.com
 samiana.com
 samlmqljptbd.com
+samsung-com.112.2o7.net
 samsungads.com
 samvaulter.com
 samvinva.info
@@ -27663,6 +27668,7 @@ widgetbucks.com
 widgetlead.net
 widgets.cryptopicture.com
 widgets.fccinteractive.com
+widgets.pinterest.com
 widgets.planeta.ru
 widgetsurvey.biz
 widgetvalue.net
